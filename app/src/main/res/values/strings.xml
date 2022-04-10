@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clap</string>
+    <string name="main_text_view">Put your hand near proximity sensor to check the change.</string>
+</resources>
